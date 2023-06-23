@@ -1,0 +1,22 @@
+head {
+	background-color:black;
+	color:white;
+}
+body {
+	background-color:black;
+	color:white;
+}
+p {
+	text-align:justify;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+h1 {
+	text-align:center;
+}
+h2 {
+	text-align:center;
+}
+a {
+	color:white;
+}
